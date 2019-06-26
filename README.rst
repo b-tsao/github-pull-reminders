@@ -1,17 +1,16 @@
+DISCLAIMER: This is a much enhanced version of the original from https://github.com/ekmartin/slack-pull-reminder
+What is improved?
+Display
+Added reviewers list
+Meant for enterprise github
+
+Credits to Martin as the original creator!
+
 slack-pull-reminder
 ===================
 
     Posts a Slack reminder with a list of open pull requests for an
     organization.
-
-.. figure:: http://i.imgur.com/3xsfTYV.png
-
-Installation
-------------
-
-.. code:: bash
-
-    $ pip install slack-pull-reminder
 
 Usage
 -----
