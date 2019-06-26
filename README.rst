@@ -1,8 +1,9 @@
 DISCLAIMER: This is a much enhanced version of the original from https://github.com/ekmartin/slack-pull-reminder
+
 What is improved?
-Display
-Added reviewers list
-Meant for enterprise github
+ - Display
+ - Added reviewers list
+ - Meant for enterprise github
 
 Credits to Martin as the original creator!
 
