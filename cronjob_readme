@@ -1,0 +1,14 @@
+How to run a cron job every weekday at 10 AM:
+
+Run the command
+  crontab -e
+and enter:
+0 10 * * 1-5 /root/slack/slack-pull-reminder-master/run.sh >> /root/slack/slack-pull-reminder-master/cronjob.out 2>&1
+
+To view existing cron jobs run the command
+  crontab -l
+
+To remove an existing cron job
+  crontab -e
+Delete the line that contains your cron job
+Save and exit
